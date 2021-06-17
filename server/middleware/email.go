@@ -1,11 +1,11 @@
 package middleware
 
 import (
-	"gin-vue-admin/global"
-	"gin-vue-admin/model"
-	"gin-vue-admin/model/request"
-	"gin-vue-admin/service"
-	"gin-vue-admin/utils"
+	"quan/global"
+	"quan/model"
+	"quan/model/request"
+	"quan/service"
+	"quan/utils"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 	"io/ioutil"

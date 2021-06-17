@@ -1,7 +1,7 @@
 package initialize
 
 import (
-	"gin-vue-admin/global"
+	"quan/global"
 	"github.com/go-redis/redis"
 	"go.uber.org/zap"
 )

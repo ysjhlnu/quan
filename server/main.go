@@ -1,9 +1,9 @@
 package main
 
 import (
-	"gin-vue-admin/core"
-	"gin-vue-admin/global"
-	"gin-vue-admin/initialize"
+	"quan/core"
+	"quan/global"
+	"quan/initialize"
 )
 
 //go:generate go env -w GO111MODULE=on

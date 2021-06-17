@@ -2,10 +2,10 @@ package service
 
 import (
 	"errors"
-	"gin-vue-admin/global"
-	"gin-vue-admin/model"
-	"gin-vue-admin/model/request"
-	"gin-vue-admin/utils/upload"
+	"quan/global"
+	"quan/model"
+	"quan/model/request"
+	"quan/utils/upload"
 	"mime/multipart"
 	"strings"
 )

@@ -1,8 +1,8 @@
 package source
 
 import (
-	"gin-vue-admin/global"
-	"gin-vue-admin/model"
+	"quan/global"
+	"quan/model"
 	"github.com/gookit/color"
 	"gorm.io/gorm"
 	"time"

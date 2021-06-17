@@ -1,11 +1,11 @@
 package v1
 
 import (
-	"gin-vue-admin/global"
-    "gin-vue-admin/model"
-    "gin-vue-admin/model/request"
-    "gin-vue-admin/model/response"
-    "gin-vue-admin/service"
+	"quan/global"
+    "quan/model"
+    "quan/model/request"
+    "quan/model/response"
+    "quan/service"
     "github.com/gin-gonic/gin"
     "go.uber.org/zap"
 )

@@ -3,12 +3,12 @@ package service
 import (
 	"database/sql"
 	"fmt"
-	"gin-vue-admin/config"
-	"gin-vue-admin/global"
-	"gin-vue-admin/model"
-	"gin-vue-admin/model/request"
-	"gin-vue-admin/source"
-	"gin-vue-admin/utils"
+	"quan/config"
+	"quan/global"
+	"quan/model"
+	"quan/model/request"
+	"quan/source"
+	"quan/utils"
 	"path/filepath"
 
 	"github.com/spf13/viper"

@@ -2,9 +2,9 @@ package service
 
 import (
 	"errors"
-	"gin-vue-admin/global"
-	"gin-vue-admin/model"
-	"gin-vue-admin/model/request"
+	"quan/global"
+	"quan/model"
+	"quan/model/request"
 
 	"gorm.io/gorm"
 )

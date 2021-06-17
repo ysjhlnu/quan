@@ -1,6 +1,6 @@
 package response
 
-import "gin-vue-admin/model"
+import "quan/model"
 
 type FilePathResponse struct {
 	FilePath string `json:"filePath"`

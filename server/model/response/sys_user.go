@@ -1,7 +1,7 @@
 package response
 
 import (
-	"gin-vue-admin/model"
+	"quan/model"
 )
 
 type SysUserResponse struct {

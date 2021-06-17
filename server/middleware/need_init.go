@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"gin-vue-admin/global"
-	"gin-vue-admin/model/response"
+	"quan/global"
+	"quan/model/response"
 	"github.com/gin-gonic/gin"
 )
 

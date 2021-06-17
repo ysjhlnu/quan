@@ -2,7 +2,7 @@
 package model
 
 import (
-	"gin-vue-admin/global"
+	"quan/global"
 	"time"
 )
 

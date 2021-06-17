@@ -1,7 +1,7 @@
 package model
 
 import (
-	"gin-vue-admin/global"
+	"quan/global"
 	"github.com/satori/go.uuid"
 )
 

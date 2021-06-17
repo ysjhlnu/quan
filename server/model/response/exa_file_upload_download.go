@@ -1,6 +1,6 @@
 package response
 
-import "gin-vue-admin/model"
+import "quan/model"
 
 type ExaFileResponse struct {
 	File model.ExaFileUploadAndDownload `json:"file"`

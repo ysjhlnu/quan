@@ -1,4 +1,4 @@
-module gin-vue-admin
+module quan
 
 go 1.14
 
@@ -6,7 +6,9 @@ require (
 	github.com/360EntSecGroup-Skylar/excelize/v2 v2.3.2
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1147 // indirect
 	github.com/aliyun/aliyun-oss-go-sdk v2.1.6+incompatible
+	github.com/aws/aws-sdk-go v1.38.63 // indirect
 	github.com/baiyubin/aliyun-sts-go-sdk v0.0.0-20180326062324-cfa1a18b161f // indirect
 	github.com/casbin/casbin/v2 v2.11.0
 	github.com/casbin/gorm-adapter/v3 v3.0.2
@@ -24,6 +26,7 @@ require (
 	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/gookit/color v1.3.1
 	github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869 // indirect
+	github.com/jinzhu/gorm v1.9.16 // indirect
 	github.com/jordan-wright/email v0.0.0-20200824153738-3f5bafa1cd84
 	github.com/json-iterator/go v1.1.10 // indirect
 	github.com/lestrrat-go/file-rotatelogs v2.3.0+incompatible

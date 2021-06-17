@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"gin-vue-admin/global"
+	"quan/global"
 	"mime/multipart"
 	"net/http"
 	"net/url"

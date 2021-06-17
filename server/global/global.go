@@ -1,11 +1,11 @@
 package global
 
 import (
-	"gin-vue-admin/utils/timer"
+	"quan/utils/timer"
 
 	"go.uber.org/zap"
 
-	"gin-vue-admin/config"
+	"quan/config"
 
 	"github.com/go-redis/redis"
 	"github.com/spf13/viper"

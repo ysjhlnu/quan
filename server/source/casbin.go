@@ -1,7 +1,7 @@
 package source
 
 import (
-	"gin-vue-admin/global"
+	"quan/global"
 
 	gormadapter "github.com/casbin/gorm-adapter/v3"
 	"github.com/gookit/color"

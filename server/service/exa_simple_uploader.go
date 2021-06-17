@@ -3,8 +3,8 @@ package service
 import (
 	"errors"
 	"fmt"
-	"gin-vue-admin/global"
-	"gin-vue-admin/model"
+	"quan/global"
+	"quan/model"
 	"gorm.io/gorm"
 	"io/ioutil"
 	"os"

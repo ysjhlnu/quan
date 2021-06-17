@@ -2,9 +2,9 @@ package initialize
 
 import (
 	"fmt"
-	"gin-vue-admin/config"
-	"gin-vue-admin/global"
-	"gin-vue-admin/utils"
+	"quan/config"
+	"quan/global"
+	"quan/utils"
 )
 
 func Timer() {

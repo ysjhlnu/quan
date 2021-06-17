@@ -3,9 +3,9 @@ package core
 import (
 	"flag"
 	"fmt"
-	"gin-vue-admin/global"
-	_ "gin-vue-admin/packfile"
-	"gin-vue-admin/utils"
+	"quan/global"
+	_ "quan/packfile"
+	"quan/utils"
 	"os"
 	"path/filepath"
 

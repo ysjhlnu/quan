@@ -3,11 +3,11 @@ package v1
 import (
 	"errors"
 	"fmt"
-	"gin-vue-admin/global"
-	"gin-vue-admin/model"
-	"gin-vue-admin/model/response"
-	"gin-vue-admin/service"
-	"gin-vue-admin/utils"
+	"quan/global"
+	"quan/model"
+	"quan/model/response"
+	"quan/service"
+	"quan/utils"
 	"net/url"
 	"os"
 

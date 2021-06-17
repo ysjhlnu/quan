@@ -1,6 +1,6 @@
 package request
 
-import "gin-vue-admin/model"
+import "quan/model"
 
 type SysDictionaryDetailSearch struct {
 	model.SysDictionaryDetail
